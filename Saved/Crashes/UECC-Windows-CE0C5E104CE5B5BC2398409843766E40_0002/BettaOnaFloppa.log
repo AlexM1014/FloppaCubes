@@ -1,0 +1,1476 @@
+﻿Log file open, 08/21/22 09:36:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=16292)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BettaOnaFloppa
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/BettaOnaFloppa.uproject" -EpicPortal -epicusername=ScruffyAlex -epicuserid=c3a17e2222df48fdb370e48a2dd9088b -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 2600 Six-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="9431a3a64f0e323c9bbd7fac3f699ef3"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.535733
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-CE0C5E104CE5B5BC2398409843766E40
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.08 seconds
+LogConfig: Display: Loading Android ini files took 0.09 seconds
+LogConfig: Display: Loading IOS ini files took 0.09 seconds
+LogConfig: Display: Loading Unix ini files took 0.11 seconds
+LogConfig: Display: Loading TVOS ini files took 0.12 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.13 seconds
+LogConfig: Display: Loading Linux ini files took 0.14 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
+LogConfig: Display: Loading Windows ini files took 0.12 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.62 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: Radeon RX 5500 XT
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=ScruffyAlex -epicuserid=c3a17e2222df48fdb370e48a2dd9088b -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.08.21-15.36.48:077][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.08.21-15.36.48:077][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.08.21-15.36.48:077][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.08.21-15.36.48:078][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.08.21-15.36.48:085][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.08.21-15.36.48:257][  0]LogD3D12RHI: Aftermath initialized
+[2022.08.21-15.36.48:257][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.08.21-15.36.57:073][  0]LogD3D12RHI: Found D3D12 adapter 0: Radeon RX 5500 XT (Max supported Feature Level 12_1, shader model 6.6)
+[2022.08.21-15.36.57:073][  0]LogD3D12RHI: Adapter has 4055MB of dedicated video memory, 0MB of dedicated system memory, and 8166MB of shared system memory, 2 output[s]
+[2022.08.21-15.36.58:846][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.08.21-15.36.58:846][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8166MB of shared system memory, 0 output[s]
+[2022.08.21-15.36.58:846][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.08.21-15.36.58:847][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.21-15.36.58:847][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.08.21-15.36.58:847][  0]LogHAL: Display: Platform has ~ 16 GB [17125949440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.21-15.36.58:847][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.08.21-15.36.58:847][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.08.21-15.36.58:847][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.21-15.36.58:848][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.08.21-15.36.58:848][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Config/WindowsEditor/Editor.ini]
+[2022.08.21-15.36.58:848][  0]LogInit: Computer: DESKTOP-C9P11U5
+[2022.08.21-15.36.58:848][  0]LogInit: User: AlexMcDowell
+[2022.08.21-15.36.58:848][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.08.21-15.36.58:848][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.21-15.36.58:848][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.21-15.36.58:848][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.08.21-15.36.58:848][  0]LogMemory: Process Physical Memory: 263.64 MB used, 300.23 MB peak
+[2022.08.21-15.36.58:848][  0]LogMemory: Process Virtual Memory: 216.95 MB used, 218.47 MB peak
+[2022.08.21-15.36.58:848][  0]LogMemory: Physical Memory: 8478.94 MB used,  7853.64 MB free, 16332.58 MB total
+[2022.08.21-15.36.58:848][  0]LogMemory: Virtual Memory: 12994.31 MB used,  19722.27 MB free, 32716.58 MB total
+[2022.08.21-15.36.58:848][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.08.21-15.36.58:996][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.21-15.36.59:012][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.08.21-15.36.59:012][  0]LogInit: Using OS detected language (en-US).
+[2022.08.21-15.36.59:012][  0]LogInit: Using OS detected locale (en-US).
+[2022.08.21-15.36.59:022][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.08.21-15.36.59:193][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.21-15.36.59:207][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.08.21-15.36.59:207][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.08.21-15.36.59:207][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.08.21-15.36.59:207][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.08.21-15.36.59:227][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.21-15.36.59:227][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.21-15.36.59:435][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.08.21-15.36.59:435][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.08.21-15.36.59:530][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.08.21-15.36.59:688][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.08.21-15.36.59:689][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.08.21-15.36.59:707][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.08.21-15.36.59:989][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.08.21-15.36.59:989][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.08.21-15.37.01:811][  0]LogD3D12RHI:     GPU DeviceId: 0x7340 (for the marketing name, search the web for "GPU Device Id")
+[2022.08.21-15.37.01:811][  0]LogWindows: Attached monitors:
+[2022.08.21-15.37.01:811][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 0) -> (3840, 1040), device: '\\.\DISPLAY1'
+[2022.08.21-15.37.01:811][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.08.21-15.37.01:811][  0]LogWindows: Found 2 attached monitors.
+[2022.08.21-15.37.01:811][  0]LogWindows: EnumDisplayDevices:
+[2022.08.21-15.37.01:812][  0]LogWindows:    0. 'Radeon RX 5500 XT' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.08.21-15.37.01:812][  0]LogWindows:    1. 'Radeon RX 5500 XT' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.08.21-15.37.01:812][  0]LogWindows:    2. 'Radeon RX 5500 XT' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.08.21-15.37.01:813][  0]LogWindows:    3. 'Radeon RX 5500 XT' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.08.21-15.37.01:813][  0]LogWindows:    4. 'Radeon RX 5500 XT' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.08.21-15.37.01:813][  0]LogWindows:    5. 'Radeon RX 5500 XT' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.08.21-15.37.01:813][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2022.08.21-15.37.01:813][  0]LogD3D12RHI:     Adapter Name: Radeon RX 5500 XT
+[2022.08.21-15.37.01:813][  0]LogD3D12RHI:   Driver Version: 30.0.21020.2 (internal:30.0.21020.2, unified:30.0.21020.2)
+[2022.08.21-15.37.01:813][  0]LogD3D12RHI:      Driver Date: 5-24-2022
+[2022.08.21-15.37.01:814][  0]LogRHI: Texture pool is 2171 MB (70% of 3102 MB)
+[2022.08.21-15.37.01:814][  0]LogD3D12RHI: Async texture creation enabled
+[2022.08.21-15.37.01:814][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.08.21-15.37.02:360][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/BettaOnaFloppa.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/BettaOnaFloppa.uproject"  -platform=all'
+[2022.08.21-15.37.02:360][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/BettaOnaFloppa.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Intermediate/TurnkeyReport_0.log" -log="C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Intermediate/TurnkeyLog_0.log" -project="C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/BettaOnaFloppa.uproject"  -platform=all" ]
+[2022.08.21-15.37.02:397][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.08.21-15.37.02:405][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.08.21-15.37.02:405][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.21-15.37.02:415][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.21-15.37.02:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.08.21-15.37.02:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.08.21-15.37.02:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.21-15.37.02:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.21-15.37.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.21-15.37.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.08.21-15.37.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.21-15.37.02:446][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.21-15.37.02:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.08.21-15.37.02:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.08.21-15.37.02:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.08.21-15.37.02:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.21-15.37.02:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.21-15.37.02:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.21-15.37.02:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.08.21-15.37.02:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.21-15.37.02:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.21-15.37.02:459][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.08.21-15.37.02:467][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.21-15.37.02:470][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.08.21-15.37.02:470][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.08.21-15.37.02:470][  0]LogTargetPlatformManager:   ADPCM
+[2022.08.21-15.37.02:470][  0]LogTargetPlatformManager:   PCM
+[2022.08.21-15.37.02:473][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.08.21-15.37.02:473][  0]LogTargetPlatformManager:   BINKA
+[2022.08.21-15.37.02:473][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.08.21-15.37.02:473][  0]LogTargetPlatformManager:   OGG
+[2022.08.21-15.37.02:473][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.08.21-15.37.02:473][  0]LogTargetPlatformManager:   OPUS
+[2022.08.21-15.37.02:557][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   SF_METAL
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.08.21-15.37.02:563][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.08.21-15.37.02:566][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.08.21-15.37.02:566][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.08.21-15.37.02:566][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.08.21-15.37.02:566][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.08.21-15.37.02:566][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.08.21-15.37.02:566][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.08.21-15.37.02:566][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.08.21-15.37.02:566][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.21-15.37.02:567][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.08.21-15.37.02:695][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.21-15.37.02:695][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.08.21-15.37.03:401][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.08.21-15.37.03:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.21-15.37.03:409][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.08.21-15.37.03:409][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.21-15.37.03:409][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.08.21-15.37.03:439][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.08.21-15.37.03:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.21-15.37.03:439][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.08.21-15.37.03:503][  0]LogDerivedDataCache: Speed tests for C:/Users/Alex McDowell/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2022.08.21-15.37.03:503][  0]LogDerivedDataCache: Display: Performance to C:/Users/Alex McDowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=216.24MBs, RandomWriteSpeed=15.96MBs. Assigned SpeedClass 'Local'
+[2022.08.21-15.37.03:504][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alex McDowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.21-15.37.03:504][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.21-15.37.03:504][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.08.21-15.37.03:514][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.08.21-15.37.03:514][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.08.21-15.37.03:514][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Intermediate/Shaders/WorkingDirectory/20016/).
+[2022.08.21-15.37.03:514][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alex McDowell/AppData/Local/Temp/UnrealShaderWorkingDir/E3E8FA1842D79CD7B1D297B9C29F753D/'.
+[2022.08.21-15.37.03:515][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.08.21-15.37.03:515][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.08.21-15.37.05:045][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.08.21-15.37.05:045][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.21-15.37.05:046][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.21-15.37.05:094][  0]LogAssetRegistry: FAssetRegistry took 0.0202 seconds to start up
+[2022.08.21-15.37.05:101][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.08.21-15.37.05:302][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.08.21-15.37.05:303][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.08.21-15.37.05:800][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.08.21-15.37.05:800][  0]LogDeviceProfileManager: Active device profile: [000008E4D93E5080][000008E4CFF32800 50] WindowsEditor
+[2022.08.21-15.37.05:800][  0]LogDeviceProfileManager: Profiles: [000008E4D93E4B40][000008E4BB725000 50] Windows, [000008E4D93E5080][000008E4CFF32800 50] WindowsEditor, [000008E4D93E4280][000008E4CFEEA000 50] WindowsServer, [000008E4D93E1180][000008E4D9580000 50] WindowsClient, [000008E4D93E1500][000008E4D9585000 50] IOS, [000008E4D93E0FC0][000008E4D9587800 50] iPadAir2, [000008E4D93E4980][000008E4D958C800 50] IPadPro, [000008E4D93E1880][000008E4D958A000 50] iPadAir3, [000008E4D93E1C00][000008E4CF4D2800 50] iPadAir4, [000008E4D93E4440][000008E4D95B0000 50] iPadMini4, [000008E4D93E0700][000008E4D95B5000 50] iPadMini5, [000008E4D93E2F40][000008E4D95B7800 50] iPadMini6, [000008E4D93E8DC0][000008E4D9582800 50] iPhone6S, [000008E4D93E9140][000008E4D95BC800 50] iPhone7, [000008E4D93E94C0][000008E4D95BA000 50] iPodTouch7, [000008E4D93E2840][000008E4D95C0000 50] iPhone6SPlus, [000008E4D93E8880][000008E4D95C5000 50] iPhone7Plus, [000008E4D93E4600][000008E4D95C7800 50] iPhoneSE, [000008E4D93E2D80][000008E4D95CA000 50] iPhone8, [000008E4D93E86C0][000008E4D95CC800 50] iPhone8Plus, [000008E4D93E08C0][000008E4D95B2800 50] iPhoneX, [000008E4D93E0000][000008E4D95D0000 50] iPhoneXS, [000008E4D93E8340][000008E4D95D5000 50] iPhoneXSMax, [000008E4D93E40C0][000008E4D95D7800 50] iPhoneXR, [000008E4D93E5940][000008E4D95DA000 50] iPhone11, [000008E4D93E8180][000008E4D95DC800 50] iPhone11Pro, [000008E4D93E9A00][000008E4D95C2800 50] iPhone11ProMax, [000008E4D93E5400][000008E4D95F0000 50] iPhoneSE2, [000008E4D93E5780][000008E4D95F5000 50] iPhone12Mini, [000008E4D93E1F80][000008E4D95F7800 50] iPhone12, [000008E4D93E7FC0][000008E4D95FA000 50] iPhone12Pro, [000008E4D93E2A00][000008E4D95FC800 50] iPhone12ProMax, [000008E4D93E6E40][000008E4D95D2800 50] iPhone13Mini, [000008E4D93E9840][000008E4D9600000 50] iPhone13, [000008E4D93E5B00][000008E4D9605000 50] iPhone13Pro, [000008E4D93E2BC0][000008E4D9607800 50] iPhone13ProMax, [000008E4D93E55C0][000008E4D960A000 50] iPadPro105, [000008E4D93E3100][000008E4D960C800 50] iPadPro129, [000008E4D93E5E80][000008E4D95F2800 50] iPadPro97, [000008E4D93E3480][000008E4D9610000 50] iPadPro2_129, [000008E4D93E7A80][000008E4D9615000 50] iPad5, [000008E4D93E8A40][000008E4D9617800 50] iPad6, [000008E4D93E5CC0][000008E4D961A000 50] iPad7, [000008E4D93E9680][000008E4D961C800 50] iPad8, [000008E4D93E8C00][000008E4D9602800 50] iPad9, [000008E4D93E7C40][000008E4D9620000 50] iPadPro11, [000008E4D93E4EC0][000008E4D9625000 50] iPadPro2_11, [000008E4D93E8F80][000008E4D9627800 50] iPadPro3_11, [000008E4D93E2140][000008E4D962A000 50] iPadPro3_129, [000008E4D93E7540][000008E4D962C800 50] iPadPro4_129, [000008E4D93E6200][000008E4D9612800 50] iPadPro5_129, [000008E4D93E6580][000008E4D9630000 50] AppleTV, [000008E4D93E1DC0][000008E4D9635000 50] AppleTV4K, [000008E4D93E6AC0][000008E4D9637800 50] TVOS, [000008E4D93EAB80][000008E4D963C800 50] Mac, [000008E4D93EAF00][000008E4D963A000 50] MacEditor, [000008E4D93EA2C0][000008E4D9622800 50] MacClient, [000008E4D93E9BC0][000008E4D9640000 50] MacServer, [000008E4D93EB0C0][000008E4D9647800 50] Linux, [000008E4D93E5240][000008E4D9645000 50] LinuxEditor, [000008E4D93E3800][000008E4D964A000 50] LinuxArm64Editor, [000008E4D93E6900][000008E4D964C800 50] LinuxArm64, [000008E4D93E3F00][000008E4D9632800 50] LinuxClient, [000008E4D93EA640][000008E4D9650000 50] LinuxArm64Client, [000008E4D93EAD40][000008E4D9655000 50] LinuxServer, [000008E4D93E6C80][000008E4D9657800 50] LinuxArm64Server, [000008E4D93EA480][000008E4D965A000 50] Android, [000008E4D93E32C0][000008E4D965C800 50] Android_Preview_OpenGL, [000008E4D93E8500][000008E4D9642800 50] Android_Preview_Vulkan, [000008E4D93E7380][000008E4D9660000 50] Android_Low, [000008E4D93EB600][000008E4D9665000 50] Android_Mid, [000008E4D93E16C0][000008E4D9667800 50] Android_High, [000008E4D93E47C0][000008E4D966A000 50] Android_Default, [000008E4D93E3640][000008E4D966C800 50] Android_Adreno4xx, [000008E4D93E39C0][000008E4D9652800 50] Android_Adreno5xx_Low, [000008E4D93EB440][000008E4D9670000 50] Android_Adreno5xx, [000008E4D93EB280][000008E4D9675000 50] Android_Adreno6xx, [000008E4D93E1A40][000008E4D9677800 50] Android_Adreno6xx_Vulkan, [000008E4D93E6040][000008E4D967A000 50] Android_Adreno7xx, [000008E4D93EA9C0][000008E4D967C800 50] Android_Adreno7xx_Vulkan, [000008E4D93E7000][000008E4D9662800 50] Android_Mali_T6xx, [000008E4D93E9F40][000008E4D9680000 50] Android_Mali_T7xx, [000008E4D93EBD00][000008E4D9685000 50] Android_Mali_T8xx, [000008E4D93E7700][000008E4D9687800 50] Android_Mali_G71, [000008E4D93E9D80][000008E4D968A000 50] Android_Mali_G72, [000008E4D93EBEC0][000008E4D968C800 50] Android_Mali_G72_Vulkan, [000008E4D93E24C0][000008E4D9672800 50] Android_Mali_G76, [000008E4D93EC5C0][000008E4D9690000 50] Android_Mali_G76_Vulkan, [000008E4D93EB980][000008E4D9695000 50] Android_Mali_G77, [000008E4D93E3D40][000008E4D9697800 50] Android_Mali_G77_Vulkan, [000008E4D93EC080][000008E4D969A000 50] Android_Mali_G78, [000008E4D93EA800][000008E4D969C800 50] Android_Mali_G78_Vulkan, [000008E4D93ECE80][000008E4D9682800 50] Android_Mali_G710, [000008E4D93ECCC0][000008E4D96A0000 50] Android_Mali_G710_Vulkan, [000008E4D93EBB40][000008E4D96A5000 50] Android_Xclipse_920, [000008E4D93E2680][000008E4D96A7800 50] Android_Xclipse_920_Vulkan, [000008E4D93EC940][000008E4D96AA000 50] Android_Vulkan_SM5, [000008E4D93ED900][000008E4D96AC800 50] Android_PowerVR_G6xxx, [000008E4D93E2300][000008E4D9692800 50] Android_PowerVR_GT7xxx, [000008E4D93EC240][000008E4D96B0000 50] Android_PowerVR_GE8xxx, [000008E4D93E78C0][000008E4D96B5000 50] Android_PowerVR_GM9xxx, [000008E4D93EDC80][000008E4D96B7800 50] Android_PowerVR_GM9xxx_Vulkan, [000008E4D93EE1C0][000008E4D96BA000 50] Android_TegraK1, [000008E4D93EDAC0][000008E4D96BC800 50] Android_Unknown_Vulkan, [000008E4D93EDE40][000008E4D96A2800 50] Oculus_Quest, [000008E4D93ED200][000008E4D96C0000 50] Oculus_Quest2, [000008E4D93E9300][000008E4D96C5000 50] HoloLens, 
+[2022.08.21-15.37.05:800][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.08.21-15.37.05:804][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.08.21-15.37.05:804][  0]LogTurnkeySupport: Turnkey Platform: HoloLens: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.21-15.37.05:804][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.21-15.37.05:804][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.21-15.37.05:804][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.08.21-15.37.05:804][  0]LogTurnkeySupport: Turnkey Platform: TVOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.08.21-15.37.05:804][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.08.21-15.37.05:832][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.08.21-15.37.06:032][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.21-15.37.06:032][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.21-15.37.06:032][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.21-15.37.06:032][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.21-15.37.06:032][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.21-15.37.06:052][  0]LogNetVersion: BettaOnaFloppa 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2336646701)
+[2022.08.21-15.37.06:436][  0]LogSlate: Border
+[2022.08.21-15.37.06:436][  0]LogSlate: BreadcrumbButton
+[2022.08.21-15.37.06:436][  0]LogSlate: Default
+[2022.08.21-15.37.06:436][  0]LogSlate: Icons.Save
+[2022.08.21-15.37.06:436][  0]LogSlate: Icons.Toolbar.Settings
+[2022.08.21-15.37.06:436][  0]LogSlate: ListView
+[2022.08.21-15.37.06:436][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.08.21-15.37.06:436][  0]LogSlate: SoftwareCursor_Grab
+[2022.08.21-15.37.06:436][  0]LogSlate: TableView.DarkRow
+[2022.08.21-15.37.06:436][  0]LogSlate: TableView.Row
+[2022.08.21-15.37.06:436][  0]LogSlate: TreeView
+[2022.08.21-15.37.07:558][  0]SourceControl: Source control is disabled
+[2022.08.21-15.37.07:709][  0]SourceControl: Source control is disabled
+[2022.08.21-15.37.07:709][  0]SourceControl: Source control is disabled
+[2022.08.21-15.37.07:853][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.08.21-15.37.07:853][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.08.21-15.37.07:853][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.21-15.37.08:258][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1A596E4541581F08B3AD84A9FF675C87 | Instance: B2327EAE4ED6DC66224C959C92B23905 (DESKTOP-C9P11U5-20016).
+[2022.08.21-15.37.08:293][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.21-15.37.08:302][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.21-15.37.08:316][  0]LogPython: Using Python 3.9.7
+[2022.08.21-15.37.09:364][  0]SourceControl: Source control is disabled
+[2022.08.21-15.37.09:369][  0]SourceControl: Source control is disabled
+[2022.08.21-15.37.09:383][  0]LogUProjectInfo: Found projects:
+[2022.08.21-15.37.09:393][  0]SourceControl: Source control is disabled
+[2022.08.21-15.37.12:916][  0]LogOpenImageDenoise: OIDN starting up
+[2022.08.21-15.37.12:950][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.21-15.37.12:967][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.21-15.37.12:967][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.21-15.37.13:098][  0]LogCollectionManager: Loaded 0 collections in 0.003675 seconds
+[2022.08.21-15.37.13:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Collections/' took 0.00s
+[2022.08.21-15.37.13:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/Developers/AlexMcDowell/Collections/' took 0.00s
+[2022.08.21-15.37.13:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/Collections/' took 0.00s
+[2022.08.21-15.37.13:821][  0]LogEngine: Initializing Engine...
+[2022.08.21-15.37.13:844][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.08.21-15.37.15:117][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.21-15.37.15:424][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.21-15.37.15:424][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.21-15.37.15:438][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-15.37.15:476][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.21-15.37.15:477][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.21-15.37.15:505][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.08.21-15.37.15:506][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.08.21-15.37.15:506][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.08.21-15.37.15:506][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.21-15.37.15:506][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.21-15.37.15:506][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.21-15.37.15:506][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.21-15.37.15:506][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.21-15.37.15:506][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.21-15.37.15:506][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.21-15.37.15:506][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.21-15.37.15:506][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.21-15.37.15:506][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.21-15.37.15:507][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.21-15.37.15:507][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.21-15.37.15:507][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.21-15.37.15:516][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.21-15.37.16:409][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Alienware 510H)
+[2022.08.21-15.37.16:410][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.21-15.37.16:412][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.21-15.37.16:412][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.21-15.37.16:413][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.08.21-15.37.16:413][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.08.21-15.37.16:415][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.21-15.37.16:415][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.08.21-15.37.16:415][  0]LogInit: FAudioDevice initialized.
+[2022.08.21-15.37.16:416][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.21-15.37.16:416][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.21-15.37.16:416][  0]LogInit: Texture streaming: Enabled
+[2022.08.21-15.37.16:463][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.08.21-15.37.16:475][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.21-15.37.18:149][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.08.21-15.37.18:157][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.08.21-15.37.18:158][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.08.21-15.38.53:804][  0]LogLiveCoding: Display: First instance in process group "UE_BettaOnaFloppa_0x45ee8303", spawning console
+[2022.08.21-15.38.53:804][  0]LogLiveCoding: Display: Waiting for server
+[2022.08.21-15.38.53:804][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.08.21-15.38.53:875][  0]LogInit: Transaction tracking system initialized
+[2022.08.21-15.38.53:977][  0]BlueprintLog: New page: Editor Load
+[2022.08.21-15.38.54:244][  0]LocalizationService: Localization service is disabled
+[2022.08.21-15.38.54:430][  0]TimingProfiler: Initialize
+[2022.08.21-15.38.54:430][  0]TimingProfiler: OnSessionChanged
+[2022.08.21-15.38.54:430][  0]LoadingProfiler: Initialize
+[2022.08.21-15.38.54:430][  0]LoadingProfiler: OnSessionChanged
+[2022.08.21-15.38.54:430][  0]NetworkingProfiler: Initialize
+[2022.08.21-15.38.54:430][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.21-15.38.54:430][  0]MemoryProfiler: Initialize
+[2022.08.21-15.38.54:430][  0]MemoryProfiler: OnSessionChanged
+[2022.08.21-15.38.56:294][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/' took 0.02s
+[2022.08.21-15.38.56:294][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.08.21-15.38.56:323][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.21-15.38.56:326][  0]SourceControl: Source control is disabled
+[2022.08.21-15.38.56:326][  0]LogUnrealEdMisc: Loading editor; pre map load, took 135.140
+[2022.08.21-15.38.56:326][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.21-15.38.56:647][  0]LightingResults: New page: Lighting Build
+[2022.08.21-15.38.56:662][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.21-15.38.56:662][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-15.38.56:662][  0]MapCheck: New page: Map Check
+[2022.08.21-15.38.56:663][  0]LightingResults: New page: Lighting Build
+[2022.08.21-15.38.56:669][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.21-15.38.56:673][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.08.21-15.39.01:299][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400 should be resaved to improve async compilation performance.
+[2022.08.21-15.39.02:461][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.08.21-15.39.02:567][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.08.21-15.39.02:957][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.08.21-15.39.03:711][  0]LogDerivedDataCache: C:/Users/Alex McDowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.026 and deleted 0 file(s) with total size 0 MiB.
+[2022.08.21-15.39.03:711][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.08.21-15.39.03:711][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.21-15.39.03:711][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-15.39.03:711][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.08.21-15.39.04:353][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.21-15.39.04:361][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.08.21-15.39.04:361][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.21-15.39.04:362][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2022.08.21-15.39.04:362][  0]LogFileHelpers: Loading map 'Minimal_Default' took 8.036
+[2022.08.21-15.39.04:384][  0]LogUnrealEdMisc: Total Editor Startup Time, took 143.199
+[2022.08.21-15.39.04:384][  0]LogShaderCompilers: Display: ================================================
+[2022.08.21-15.39.04:384][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.21-15.39.04:384][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.08.21-15.39.04:384][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.08.21-15.39.04:385][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.21-15.39.04:385][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.21-15.39.04:385][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.08.21-15.39.04:385][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.08.21-15.39.04:385][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.08.21-15.39.04:385][  0]LogShaderCompilers: Display: ================================================
+[2022.08.21-15.39.06:872][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.21-15.39.06:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.21-15.39.06:903][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.21-15.39.06:910][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.21-15.39.10:603][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.08.21-15.39.10:603][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:013][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:013][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:067][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:067][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:111][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:111][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:155][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:155][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:179][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:179][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:201][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:201][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:435][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:435][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:450][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:450][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:483][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.08.21-15.39.11:483][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.08.21-15.39.11:489][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.08.21-15.39.16:252][  0]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.21-15.39.16:286][  0]LogSlate: Took 0.011226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.08.21-15.39.16:368][  0]LogSlate: Took 0.035534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.21-15.39.16:476][  0]LogViewport: Scene viewport resized to 1348x902, mode Windowed.
+[2022.08.21-15.39.20:334][  0]LogStall: Startup...
+[2022.08.21-15.39.20:336][  0]LogStall: Startup complete.
+[2022.08.21-15.39.20:376][  0]LogLoad: (Engine Initialization) Total time: 159.19 seconds
+[2022.08.21-15.39.20:376][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.21-15.39.21:274][  0]LogAssetRegistry: Asset discovery search completed in 136.1813 seconds
+[2022.08.21-15.39.21:295][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.08.21-15.39.21:327][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.21-15.39.21:769][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.21-15.39.24:249][  4]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.21-15.40.44:843][462]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2022.08.21-15.40.44:843][462]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20424
+[2022.08.21-15.40.45:175][462]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0357f921-28a4-462f-ada7-84467473203a}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.99
+[2022.08.21-15.40.45:175][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.21-15.40.45:179][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.21-15.41.09:766][873]LogSlate: Took 0.026949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.21-15.41.10:511][873]LogSlate: Took 0.355146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.21-15.41.18:969][176]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.41.19:101][176]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-15.41.54:953][176]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.08.21-15.41.54:953][176]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [11852ms] waiting for h/w. InstanceID=1
+[2022.08.21-15.41.54:953][176]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.000000s
+[2022.08.21-15.41.54:953][176]LogBlueprintEditor: Perf: 2.7 total seconds to load all 6 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.08.21-15.41.54:953][176]LogBlueprintEditor: Perf: 1.0 seconds loading: /Engine/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib
+[2022.08.21-15.41.54:953][176]LogBlueprintEditor: Perf: 0.7 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2022.08.21-15.41.54:953][176]LogBlueprintEditor: Perf: 0.7 seconds loading: /Engine/EditorBlueprintResources/ActorMacros
+[2022.08.21-15.41.54:953][176]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2022.08.21-15.42.08:718][176]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001278s (16.524039s overbudget)
+[2022.08.21-15.42.10:470][176]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=20424
+[2022.08.21-15.42.10:470][176]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (1).
+[2022.08.21-15.42.11:471][176]LogAudioMixer: Warning: Timed out waiting to flush the source manager command queue (2).
+[2022.08.21-15.42.11:691][176]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0357f921-28a4-462f-ada7-84467473203a}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=15.05
+[2022.08.21-15.42.11:691][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.08.21-15.42.11:984][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.08.21-15.42.11:984][176]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.21-15.43.15:520][820]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.08.21-15.43.15:520][820]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.08.21-15.43.15:520][820]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2022.08.21-15.43.15:520][820]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2022.08.21-15.43.25:252][871]BlueprintLog: New page: Compile BaseFloppa
+[2022.08.21-15.43.25:680][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.08.21-15.43.26:857][952]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007788 seconds
+[2022.08.21-15.43.27:218][952]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.43.27:220][952]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa14FD3D8D4B378DA5032D1EA9F30CE4A0.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.43.27:585][952]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.43.27:918][952]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.43.28:294][986]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.43.28:295][986]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppaBA43571540C620277BFD048319F34CC9.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.43.28:310][986]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.43.28:311][986]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.43.41:727][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.08.21-15.43.46:554][ 71]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2022.08.21-15.43.46:554][ 71]Cmd: MAP LOAD FILE="../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/TopDown/Maps/TopDownMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.21-15.43.46:554][ 71]LightingResults: New page: Lighting Build
+[2022.08.21-15.43.46:554][ 71]LoadErrors: New page: Loading map: TopDownMap.umap
+[2022.08.21-15.43.46:577][ 71]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.08.21-15.43.46:577][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-15.43.46:609][ 71]MapCheck: New page: Map Check
+[2022.08.21-15.43.46:609][ 71]LightingResults: New page: Lighting Build
+[2022.08.21-15.43.46:640][ 71]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.21-15.43.46:945][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.08.21-15.43.46:949][ 71]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.21-15.43.46:949][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-15.43.46:980][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.08.21-15.43.47:010][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.08.21-15.43.47:100][ 71]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownMap'.
+[2022.08.21-15.43.47:112][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-15.43.47:112][ 71]LogAIModule: Creating AISystem for world TopDownMap
+[2022.08.21-15.43.47:113][ 71]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.21-15.43.47:113][ 71]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.08.21-15.43.48:746][ 71]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.08.21-15.43.50:700][ 71]LogWorldPartition: Display: WorldPartition initialize took 3.58 sec
+[2022.08.21-15.43.50:717][ 71]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.21-15.43.51:000][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.08.21-15.43.51:011][ 71]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.21-15.43.51:011][ 71]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.283ms to complete.
+[2022.08.21-15.43.51:011][ 71]LogFileHelpers: Loading map 'TopDownMap' took 4.457
+[2022.08.21-15.43.51:022][ 71]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004000s (2.466772s overbudget)
+[2022.08.21-15.43.51:605][ 71]LogNiagara: Compiling System NiagaraSystem /Game/Cursor/FX_Cursor.FX_Cursor took 5.088311 sec, no shader worker used.
+[2022.08.21-15.43.55:394][ 76]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDown/Maps/TopDownMap.
+[2022.08.21-15.44.33:799][336]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.21-15.44.34:573][336]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.21-15.44.34:573][336]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.21-15.44.34:573][336]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.21-15.44.34:573][336]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.21-15.44.34:573][336]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.21-15.44.34:573][336]LogWorldPartition: Display: GetPartitionedActors took 89 us
+[2022.08.21-15.44.34:573][336]LogWorldPartition: Display: GenerateStreaming took 489 us
+[2022.08.21-15.44.34:979][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.21-15.44.34:996][336]PIE: New page: PIE session: TopDownMap (Aug 21, 2022, 3:44:34 AM)
+[2022.08.21-15.44.35:294][336]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.21-15.44.35:322][336]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.21-15.44.35:594][336]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.08.21-15.44.36:004][336]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.21-15.44.36:004][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.410756s)
+[2022.08.21-15.44.36:005][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.682885s)
+[2022.08.21-15.44.36:005][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-15.44.36:005][336]LogAIModule: Creating AISystem for world TopDownMap
+[2022.08.21-15.44.36:006][336]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.21-15.44.36:006][336]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.21-15.44.36:007][336]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.21-15.44.36:007][336]LogPlayLevel: PIE: World Init took: (0.002827s)
+[2022.08.21-15.44.36:077][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.21-15.44.36:078][336]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.21-15.44.36:078][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.21-15.44.36:078][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.21-15.44.36:078][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.21-15.44.36:078][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.21-15.44.36:078][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.21-15.44.36:078][336]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.21-15.44.36:078][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.21-15.44.36:078][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.21-15.44.36:079][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.21-15.44.36:079][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.21-15.44.36:079][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.21-15.44.36:081][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.21-15.44.36:126][336]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.21-15.44.36:126][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.21-15.44.36:126][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.21-15.44.36:126][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.21-15.44.36:128][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.21-15.44.36:128][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.21-15.44.36:129][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.21-15.44.36:129][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.21-15.44.36:129][336]LogInit: FAudioDevice initialized.
+[2022.08.21-15.44.36:129][336]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2022.08.21-15.44.36:393][336]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.08.21-15.44.36:396][336]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.08.21-09.44.36
+[2022.08.21-15.44.36:396][336]LogWorld: Bringing up level for play took: 0.002994
+[2022.08.21-15.44.36:399][336]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.08.21-15.44.37:335][336]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1000.000 Y=1810.000 Z=98.338
+[2022.08.21-15.44.37:335][336]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.21-15.44.37:447][336]PIE: Server logged in
+[2022.08.21-15.44.37:759][336]PIE: Play in editor total start time 3.919 seconds.
+[2022.08.21-15.44.45:415][378]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.096747 > MaxSimulationTimeStep (0.050) for 'BaseFloppa_C_0', movement 'Walking'
+[2022.08.21-15.44.53:212][879]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.44.54:745][941]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.44.56:423][ 65]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.44.57:081][112]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.44.58:156][190]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.44.59:894][317]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.45.01:212][414]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.45.02:134][481]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.45.05:746][746]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.45.08:740][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.21-15.45.08:740][925]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.08.21-15.45.08:771][925]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.21-15.45.08:779][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-15.45.09:240][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.21-15.45.09:251][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-15.45.09:301][925]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.21-15.45.09:357][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.21-15.45.09:359][925]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.21-15.45.09:363][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.21-15.45.09:533][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.08.21-15.45.09:798][926]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.08.21-15.52.18:670][871]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.52.18:671][871]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa04AC926347D4D3618C22C38995685583.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.52.18:693][871]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.52.18:693][871]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.52.53:037][378]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.52.53:038][378]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa0DBB49AB481F8335005D329D484A02E6.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.52.53:057][378]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.52.53:057][378]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.53.04:008][600]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.53.04:009][600]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppaED94B131480AC6A8CA5F64B44A4AF288.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.53.04:028][600]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.53.04:028][600]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.53.24:029][641]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.53.24:030][641]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa06017C7844CA48336FDA6C8120B3623B.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.53.24:049][641]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.53.24:049][641]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.53.25:348][785]BlueprintLog: New page: Compile BaseFloppa
+[2022.08.21-15.53.25:614][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.08.21-15.53.28:682][106]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.08.21-15.56.21:414][791]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.56.21:415][791]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa4017BBAA408B8BB173BD718DF8B388B1.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.56.21:433][791]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.56.21:433][791]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.57.26:733][103]BlueprintLog: New page: Compile BaseFloppa
+[2022.08.21-15.57.26:825][103]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.08.21-15.57.55:418][438]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.57.55:419][438]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppaC53A69D74760A3E51A9C4583050E8ACE.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.57.55:436][438]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.57.55:436][438]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.57.57:914][677]BlueprintLog: New page: Compile BaseFloppa
+[2022.08.21-15.57.58:003][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.08.21-15.58.12:440][184]LogSlate: Took 0.055237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.08.21-15.58.17:046][674]BlueprintLog: New page: Compile BaseFloppa
+[2022.08.21-15.58.17:136][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.08.21-15.58.25:525][ 29]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.58.25:527][ 29]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa3888E5434CC33294A2177AAD0C14A6F6.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.58.25:544][ 29]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.58.25:544][ 29]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.58.26:235][100]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.58.26:236][100]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppaA5F2AD894D357945C34E0CA6257DE5DD.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.58.26:253][100]AssetCheck: New page: Asset Save: BaseFloppa
+[2022.08.21-15.58.26:253][100]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.58.27:161][191]BlueprintLog: New page: Compile BaseFloppa
+[2022.08.21-15.58.27:255][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.08.21-15.58.28:471][226]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.08.21-15.58.28:590][226]LogWorldPartition: Display: GenerateStreaming started...
+[2022.08.21-15.58.28:590][226]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.08.21-15.58.28:590][226]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.21-15.58.28:590][226]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.08.21-15.58.28:590][226]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.08.21-15.58.28:590][226]LogWorldPartition: Display: GetPartitionedActors took 88 us
+[2022.08.21-15.58.28:591][226]LogWorldPartition: Display: GenerateStreaming took 584 us
+[2022.08.21-15.58.28:591][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.21-15.58.28:591][226]PIE: New page: PIE session: TopDownMap (Aug 21, 2022, 3:58:28 AM)
+[2022.08.21-15.58.28:591][226]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.08.21-15.58.28:598][226]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.08.21-15.58.28:598][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006479s)
+[2022.08.21-15.58.28:598][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.006554s)
+[2022.08.21-15.58.28:598][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-15.58.28:598][226]LogAIModule: Creating AISystem for world TopDownMap
+[2022.08.21-15.58.28:599][226]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.08.21-15.58.28:599][226]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.08.21-15.58.28:600][226]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.08.21-15.58.28:600][226]LogPlayLevel: PIE: World Init took: (0.002720s)
+[2022.08.21-15.58.28:641][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.08.21-15.58.28:645][226]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.21-15.58.28:645][226]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.21-15.58.28:645][226]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.21-15.58.28:645][226]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.21-15.58.28:645][226]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.21-15.58.28:645][226]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.21-15.58.28:645][226]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.21-15.58.28:645][226]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.21-15.58.28:645][226]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.21-15.58.28:645][226]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.21-15.58.28:645][226]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.21-15.58.28:645][226]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.21-15.58.28:678][226]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.21-15.58.28:723][226]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.08.21-15.58.28:724][226]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.21-15.58.28:724][226]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.21-15.58.28:724][226]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.21-15.58.28:725][226]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.08.21-15.58.28:725][226]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.08.21-15.58.28:727][226]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.08.21-15.58.28:727][226]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.08.21-15.58.28:727][226]LogInit: FAudioDevice initialized.
+[2022.08.21-15.58.28:727][226]LogAudio: Display: Audio Device (ID: 3) registered with world 'TopDownMap'.
+[2022.08.21-15.58.28:745][226]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2022.08.21-15.58.28:747][226]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2022.08.21-09.58.28
+[2022.08.21-15.58.28:748][226]LogWorld: Bringing up level for play took: 0.002631
+[2022.08.21-15.58.28:751][226]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2022.08.21-15.58.28:753][226]LogWorldPartition: New Streaming Source: BP_TopDownController_C_0 -> Position: X=1000.000 Y=1810.000 Z=98.338
+[2022.08.21-15.58.28:753][226]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.08.21-15.58.28:754][226]PIE: Server logged in
+[2022.08.21-15.58.28:755][226]PIE: Play in editor total start time 0.237 seconds.
+[2022.08.21-15.58.31:605][366]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack not active
+[2022.08.21-15.58.33:467][503]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.58.34:879][611]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.58.36:784][756]LogBlueprintUserMessages: [BaseFloppa_C_0] Attack
+[2022.08.21-15.58.39:601][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.21-15.58.39:601][960]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2022.08.21-15.58.39:602][960]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.21-15.58.39:602][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-15.58.39:617][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.21-15.58.39:625][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-15.58.39:666][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.21-15.58.39:687][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.21-15.58.39:689][960]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.21-15.58.39:697][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.08.21-15.58.39:742][961]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.08.21-15.59.06:779][661]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-15.59.06:793][661]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-15.59.06:808][662]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.21-15.59.17:007][778]LogContentBrowser: Attempting asset rename: NewFolder -> PawMaterials
+[2022.08.21-15.59.17:342][778]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.21-15.59.26:136][367]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/Floppaw
+[2022.08.21-15.59.26:137][367]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/FloppawB87943DD43FBD468547BB9885FDEDD66.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/Floppaw.uasset'
+[2022.08.21-15.59.26:140][367]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/PawMaterials/Material
+[2022.08.21-15.59.26:140][367]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/MaterialBA42D5BA4E3A5E56594BAAA835E241BA.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/PawMaterials/Material.uasset'
+[2022.08.21-15.59.26:143][367]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/PawMaterials/Material_001
+[2022.08.21-15.59.26:143][367]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_001599B89D94306D6476B77D29DEBC6D372.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/PawMaterials/Material_001.uasset'
+[2022.08.21-15.59.26:146][367]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/PawMaterials/Material_002
+[2022.08.21-15.59.26:146][367]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_00281423A8F4276A0FEF5D20F805A9181CE.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/PawMaterials/Material_002.uasset'
+[2022.08.21-15.59.26:204][367]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/PawMaterials/Material_003
+[2022.08.21-15.59.26:204][367]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_003351B164F4F7ED63B0E5E5797289093BE.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/PawMaterials/Material_003.uasset'
+[2022.08.21-15.59.26:207][367]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/PawMaterials/Material_004
+[2022.08.21-15.59.26:207][367]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_004D850A64C4ADE36A71B5C1BB0DB7968A3.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/PawMaterials/Material_004.uasset'
+[2022.08.21-15.59.26:212][367]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/PawMaterials/Material_005
+[2022.08.21-15.59.26:212][367]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_005DD186E17423C3573A179BE90160A2025.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/PawMaterials/Material_005.uasset'
+[2022.08.21-15.59.26:729][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.08.21-15.59.26:774][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.08.21-15.59.26:814][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.08.21-15.59.26:878][367]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.21-15.59.26:878][367]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/PawMaterials/Material.Material
+[2022.08.21-15.59.26:878][367]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/PawMaterials/Material_001.Material_001
+[2022.08.21-15.59.26:878][367]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/PawMaterials/Material_002.Material_002
+[2022.08.21-15.59.26:878][367]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/PawMaterials/Material_003.Material_003
+[2022.08.21-15.59.26:878][367]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/PawMaterials/Material_004.Material_004
+[2022.08.21-15.59.26:878][367]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/PawMaterials/Material_005.Material_005
+[2022.08.21-15.59.26:878][367]LogContentValidation: Display: Validating StaticMesh /Game/FloppaBattle/Models/Floppaw.Floppaw
+[2022.08.21-15.59.29:845][544]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-15.59.29:862][544]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-15.59.29:876][545]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.21-15.59.33:946][ 16]LogContentBrowser: Attempting asset rename: NewFolder -> FloppaPaws
+[2022.08.21-15.59.33:947][ 16]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.21-15.59.35:641][194]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.08.21-15.59.35:641][194]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.08.21-15.59.37:174][315]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/Floppaw
+[2022.08.21-15.59.37:175][315]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/FloppawE6E1E586485A30A2806933BCE18BF2B9.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/Floppaw.uasset'
+[2022.08.21-15.59.37:179][315]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material
+[2022.08.21-15.59.37:179][315]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/MaterialEA85052A4AC367A4455246A8FDD314E2.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/FloppaPaws/PawMaterials/Material.uasset'
+[2022.08.21-15.59.37:182][315]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_001
+[2022.08.21-15.59.37:182][315]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_001979FCF3A4642A6F55B904B805ACD078A.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_001.uasset'
+[2022.08.21-15.59.37:185][315]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_002
+[2022.08.21-15.59.37:185][315]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_002FA98CAB74C217AFA49759FB8A8F2DE81.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_002.uasset'
+[2022.08.21-15.59.37:251][315]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_003
+[2022.08.21-15.59.37:251][315]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_003EF582D2D42B0EE15447C87BDA03FFD9E.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_003.uasset'
+[2022.08.21-15.59.37:254][315]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_004
+[2022.08.21-15.59.37:254][315]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_00465CA3A8A49FC8CAE8D4AA3BDD9FD023B.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_004.uasset'
+[2022.08.21-15.59.37:256][315]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_005
+[2022.08.21-15.59.37:256][315]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_005EE7C08AD45EFB4C6E4BFB9A743709B40.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_005.uasset'
+[2022.08.21-15.59.37:399][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.08.21-15.59.37:442][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.21-15.59.37:486][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.08.21-15.59.37:618][315]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.21-15.59.37:618][315]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material.Material
+[2022.08.21-15.59.37:618][315]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_001.Material_001
+[2022.08.21-15.59.37:619][315]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_002.Material_002
+[2022.08.21-15.59.37:619][315]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_003.Material_003
+[2022.08.21-15.59.37:619][315]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_004.Material_004
+[2022.08.21-15.59.37:619][315]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/FloppaPaws/PawMaterials/Material_005.Material_005
+[2022.08.21-15.59.37:619][315]LogContentValidation: Display: Validating StaticMesh /Game/FloppaBattle/Models/Floppaw.Floppaw
+[2022.08.21-15.59.39:562][469]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.59.39:563][469]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa996A1D9D48025B383FDFB1992A2D5CE6.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.59.39:581][469]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/FloppaPaws/Floppaw
+[2022.08.21-15.59.39:581][469]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Floppaw62175E1C4DEFBC13DFA1DCB7F3290970.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/FloppaPaws/Floppaw.uasset'
+[2022.08.21-15.59.39:647][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.08.21-15.59.39:690][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.08.21-15.59.39:732][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.08.21-15.59.39:765][469]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.21-15.59.39:765][469]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.59.39:765][469]LogContentValidation: Display: Validating StaticMesh /Game/FloppaBattle/Models/FloppaPaws/Floppaw.Floppaw
+[2022.08.21-15.59.53:282][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Animation/NewAnimComposite
+[2022.08.21-15.59.53:283][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/NewAnimCompositeCB02270740EDC04686C5C8996113A0DC.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Animation/NewAnimComposite.uasset'
+[2022.08.21-15.59.53:393][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Animation/BaseAttackShort
+[2022.08.21-15.59.53:394][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseAttackShort7609AE3B4BC3F1A0BD26E98AEC5991EA.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Animation/BaseAttackShort.uasset'
+[2022.08.21-15.59.53:496][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Animation/BaseAttack
+[2022.08.21-15.59.53:515][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseAttack30F6A08741658B956CEAD7B964CA66C2.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Animation/BaseAttack.uasset'
+[2022.08.21-15.59.53:638][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Animation/AttackAnim
+[2022.08.21-15.59.53:639][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/AttackAnimC5767929479FA32037BE5587B7A63FE7.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Animation/AttackAnim.uasset'
+[2022.08.21-15.59.53:666][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/BaseFloppa
+[2022.08.21-15.59.53:668][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa7273DCC64DB982842AEA59A18CCE5625.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/BaseFloppa.uasset'
+[2022.08.21-15.59.53:671][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/Cube/Models/floopacube_Skeleton
+[2022.08.21-15.59.53:671][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/floopacube_SkeletonA47976F244A7938B879689BF7F99555A.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/Cube/Models/floopacube_Skeleton.uasset'
+[2022.08.21-15.59.54:160][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/Cube/Models/flooptext
+[2022.08.21-15.59.54:161][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/flooptext4B5AC487419303C09BD078BF1ACD2541.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/Cube/Models/flooptext.uasset'
+[2022.08.21-15.59.54:163][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/Cube/Models/Material_016
+[2022.08.21-15.59.54:163][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Material_016D20B64F14CB05E6E27AB0E8E60231AA9.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/Cube/Models/Material_016.uasset'
+[2022.08.21-15.59.54:427][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/Cube/Models/floopacube
+[2022.08.21-15.59.54:427][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/floopacube421D0DE04D49B178178017916555BE97.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/Cube/Models/floopacube.uasset'
+[2022.08.21-15.59.54:594][758]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/Cube/Texture/flooptext
+[2022.08.21-15.59.54:594][758]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/flooptext9B15B46F4E0B4EFB7CABF0B530652FB8.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/Cube/Texture/flooptext.uasset'
+[2022.08.21-15.59.54:721][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.08.21-15.59.54:766][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.08.21-15.59.54:808][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.08.21-15.59.55:054][758]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating Skeleton /Game/FloppaBattle/Models/Cube/Models/floopacube_Skeleton.floopacube_Skeleton
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating AnimSequence /Game/FloppaBattle/Animation/BaseAttackShort.BaseAttackShort
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/BaseFloppa.BaseFloppa
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating AnimBlueprint /Game/FloppaBattle/Animation/AttackAnim.AttackAnim
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating AnimSequence /Game/FloppaBattle/Animation/BaseAttack.BaseAttack
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating Texture2D /Game/FloppaBattle/Models/Cube/Models/flooptext.flooptext
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating Material /Game/FloppaBattle/Models/Cube/Models/Material_016.Material_016
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating SkeletalMesh /Game/FloppaBattle/Models/Cube/Models/floopacube.floopacube
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating AnimComposite /Game/FloppaBattle/Animation/NewAnimComposite.NewAnimComposite
+[2022.08.21-15.59.55:055][758]LogContentValidation: Display: Validating Texture2D /Game/FloppaBattle/Models/Cube/Texture/flooptext.flooptext
+[2022.08.21-16.00.12:936][968]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-16.00.12:946][968]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-16.00.12:959][969]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.21-16.00.17:302][440]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.08.21-16.00.17:303][440]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.21-16.00.21:306][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.BaseFloppa_C' ref from Metadata '/Game/FloppaBattle/CubeTypes/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.21:306][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.SKEL_BaseFloppa_C' ref from Metadata '/Game/FloppaBattle/CubeTypes/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.21:306][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.BaseFloppa_C:ReceiveHit' ref from Metadata '/Game/FloppaBattle/CubeTypes/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.21:306][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.SKEL_BaseFloppa_C:UserConstructionScript' ref from Metadata '/Game/FloppaBattle/CubeTypes/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.21:306][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.SKEL_BaseFloppa_C:ReceiveHit' ref from Metadata '/Game/FloppaBattle/CubeTypes/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.Cuba:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.Cuba_C' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.Cuba:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.Cuba:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.Cuba:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.SKEL_Cuba_C:ReceiveBeginPlay' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.SKEL_Cuba_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.SKEL_Cuba_C:ReceiveTick' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.SKEL_Cuba_C:UserConstructionScript' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:310][784]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.SKEL_Cuba_C' ref from Metadata '/Game/FloppaBattle/CubeTypes/Cuba.PackageMetaData'
+[2022.08.21-16.00.21:359][784]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2022.08.21-16.00.21:360][784]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BP_TopDownGameMode8673F4C1409AF181E34C64ABDDF65575.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2022.08.21-16.00.21:411][784]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Animation/AttackAnim
+[2022.08.21-16.00.21:413][784]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/AttackAnim166902C140F8CA8DF54BE3ABBA7FC2A6.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Animation/AttackAnim.uasset'
+[2022.08.21-16.00.21:444][784]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa
+[2022.08.21-16.00.21:444][784]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppaA6F0CBFA45139F6AB36C1E8D6C880B14.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.uasset'
+[2022.08.21-16.00.21:477][784]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/NewFolder/Cuba
+[2022.08.21-16.00.21:477][784]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/CubaBE4941124D41C5719E83A39E6F263D58.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/NewFolder/Cuba.uasset'
+[2022.08.21-16.00.21:590][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.08.21-16.00.21:635][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.08.21-16.00.21:688][784]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.08.21-16.00.21:719][784]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.21-16.00.21:719][784]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.BaseFloppa
+[2022.08.21-16.00.21:719][784]LogContentValidation: Display: Validating AnimBlueprint /Game/FloppaBattle/Animation/AttackAnim.AttackAnim
+[2022.08.21-16.00.21:719][784]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
+[2022.08.21-16.00.21:719][784]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/NewFolder/Cuba.Cuba
+[2022.08.21-16.00.33:112][916]LogContentBrowser: Attempting asset rename: NewFolder -> Player_Cubes
+[2022.08.21-16.00.33:287][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa.BaseFloppa_C' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.33:287][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa.BaseFloppa_C:ReceiveHit' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.33:287][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa.SKEL_BaseFloppa_C' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.33:287][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa.SKEL_BaseFloppa_C:ReceiveHit' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.33:287][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa.SKEL_BaseFloppa_C:UserConstructionScript' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/BaseFloppa.PackageMetaData'
+[2022.08.21-16.00.33:288][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.Cuba_C' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:288][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.SKEL_Cuba_C' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:288][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.SKEL_Cuba_C:ReceiveBeginPlay' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:289][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.SKEL_Cuba_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:289][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.SKEL_Cuba_C:ReceiveTick' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:289][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.SKEL_Cuba_C:UserConstructionScript' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:289][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.Cuba:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:289][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.Cuba:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:289][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.Cuba:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:289][916]LogMetaData: Removing '/Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.Cuba:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FloppaBattle/CubeTypes/NewFolder/Cuba.PackageMetaData'
+[2022.08.21-16.00.33:353][916]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownGameMode
+[2022.08.21-16.00.33:354][916]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BP_TopDownGameModeD049EE154D487AAB72382790501754B0.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset'
+[2022.08.21-16.00.33:405][916]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Animation/AttackAnim
+[2022.08.21-16.00.33:406][916]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/AttackAnim9154021746A61A667D274BBF9C3D708F.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Animation/AttackAnim.uasset'
+[2022.08.21-16.00.33:432][916]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa
+[2022.08.21-16.00.33:432][916]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppaAF7DBEAB4846F31C3FE011BC615D8DA6.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa.uasset'
+[2022.08.21-16.00.33:448][916]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba
+[2022.08.21-16.00.33:448][916]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/CubaA0F5BDA94C7BD283EE1E0B9FAD139D93.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/Player_Cubes/Cuba.uasset'
+[2022.08.21-16.00.33:528][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.08.21-16.00.33:569][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.08.21-16.00.33:610][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.08.21-16.00.33:661][916]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.21-16.00.33:661][916]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa.BaseFloppa
+[2022.08.21-16.00.33:661][916]LogContentValidation: Display: Validating AnimBlueprint /Game/FloppaBattle/Animation/AttackAnim.AttackAnim
+[2022.08.21-16.00.33:661][916]LogContentValidation: Display: Validating Blueprint /Game/TopDown/Blueprints/BP_TopDownGameMode.BP_TopDownGameMode
+[2022.08.21-16.00.33:661][916]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/Player_Cubes/Cuba.Cuba
+[2022.08.21-16.00.58:346][650]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-16.00.58:361][650]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-16.00.58:374][651]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.21-16.01.07:601][709]LogContentBrowser: Attempting asset rename: NewFolder -> Enemy_Cubes
+[2022.08.21-16.01.07:602][709]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.21-16.01.14:511][372]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.08.21-16.01.20:471][372]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.08.21-16.01.20:771][372]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.08.21-16.01.20:783][372]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.08.21-16.01.20:846][374]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.08.21-16.01.59:281][853]LogContentBrowser: Attempting asset rename: NewBlueprint -> Enemy_CubeBase
+[2022.08.21-16.01.59:393][853]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.08.21-16.19.13:986][881]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase.Enemy_CubeBase
+[2022.08.21-16.19.13:986][881]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-16.19.14:845][881]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.08.21-16.19.16:708][970]LogViewport: Scene viewport resized to 1139x900, mode Windowed.
+[2022.08.21-16.19.16:804][972]LogViewport: Scene viewport resized to 467x294, mode Windowed.
+[2022.08.21-16.19.17:095][993]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
+[2022.08.21-16.19.17:669][ 36]LogSlate: Window 'Enemy_CubeBase' being destroyed
+[2022.08.21-16.19.18:468][123]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase
+[2022.08.21-16.19.18:468][123]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Enemy_CubeBase7D84DF4D487E55046FD5D288CB770ECB.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase.uasset'
+[2022.08.21-16.19.18:492][123]AssetCheck: New page: Asset Save: Enemy_CubeBase
+[2022.08.21-16.19.18:492][123]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase.Enemy_CubeBase
+[2022.08.21-16.19.53:589][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.08.21-16.19.53:599][261]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.082
+[2022.08.21-16.19.53:603][261]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa] ([2] browsable assets)...
+[2022.08.21-16.19.53:603][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa]
+[2022.08.21-16.19.53:619][261]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa_Auto1
+[2022.08.21-16.19.53:619][261]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BaseFloppa_Auto1158AB9814E25F8B24DF91788F2B829FE.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Autosaves/Game/FloppaBattle/CubeTypes/Player_Cubes/BaseFloppa_Auto1.uasset'
+[2022.08.21-16.19.53:621][261]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase] ([2] browsable assets)...
+[2022.08.21-16.19.53:621][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase]
+[2022.08.21-16.19.53:625][261]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase_Auto1
+[2022.08.21-16.19.53:625][261]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Enemy_CubeBase_Auto1D66219DD430657C67B10E38820426E68.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Autosaves/Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase_Auto1.uasset'
+[2022.08.21-16.19.53:626][261]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.08.21-16.30.45:052][ 39]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-16.30.45:076][ 39]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-16.30.45:099][ 40]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.21-16.30.48:523][284]LogContentBrowser: Attempting asset rename: NewFolder -> GaintDoge
+[2022.08.21-16.30.48:524][284]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.21-16.31.07:187][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Alex McDowell\Desktop\MISC\Class\UnrealFiles\BuffDoge mixamo.fbx)
+[2022.08.21-16.31.07:541][876]LogFbx: Loading FBX Scene from C:\Users\Alex McDowell\Desktop\MISC\Class\UnrealFiles\BuffDoge mixamo.fbx
+[2022.08.21-16.31.07:695][876]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.21-16.31.24:749][876]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.08.21-16.31.24:910][876]LogFbx: Valid bind pose for Pose (BindPose) - Body
+[2022.08.21-16.31.24:922][876]LogMaterial: Display: Material /Game/FloppaBattle/Models/GaintDoge/Mat.Mat needed to have new flag set bUsedWithSkeletalMesh !
+[2022.08.21-16.31.25:144][876]LogMaterial: Display: Missing cached shadermap for Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 691370D48902FEB2CF307C3576A688A3FCF8987C), compiling. 
+[2022.08.21-16.31.25:717][876]LogFbxMaterialImport: Warning: Layered or procedural Textures are not supported (material Mat)
+[2022.08.21-16.31.25:813][876]LogMaterial: Display: Missing cached shadermap for Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B730FA2B07B1A0E929659629A2C33797091573AB), compiling. 
+[2022.08.21-16.31.25:863][876]LogFbx: Triangulating skeletal mesh Body
+[2022.08.21-16.31.26:340][876]LogFbx: Triangulating skeletal mesh Nose
+[2022.08.21-16.31.26:356][876]LogFbx: Triangulating skeletal mesh Eye_right
+[2022.08.21-16.31.26:380][876]LogFbx: Triangulating skeletal mesh Eye_Left
+[2022.08.21-16.31.26:490][876]LogFbx: Warning: Bones digested - 41  Depth of hierarchy - 12
+[2022.08.21-16.31.26:780][876]LogSkeletalMesh: Display: /Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo.BuffDoge_mixamo ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.08.21-16.31.27:243][876]LogSkeletalMesh: Section 0: Material=0, 11252 triangles
+[2022.08.21-16.31.27:296][876]LogSkeletalMesh: Building Skeletal Mesh BuffDoge_mixamo...
+[2022.08.21-16.31.27:296][876]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (BuffDoge_mixamo) ...
+[2022.08.21-16.31.27:569][876]LogSkeletalMesh: Display: /Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo.BuffDoge_mixamo ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.08.21-16.31.28:257][876]LogSkeletalMesh: Built Skeletal Mesh [0.77s] /Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo.BuffDoge_mixamo
+[2022.08.21-16.31.28:257][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-16.31.28:271][876]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.08.21-16.31.28:271][876]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.08.21-16.31.28:271][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-16.31.28:311][876]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-16.31.28:721][876]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.08.21-16.31.28:781][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.21-16.31.28:900][876]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.08.21-16.31.38:997][463]LogSlate: Window 'Message Log' being destroyed
+[2022.08.21-16.31.39:025][463]LogSlate: Window 'Message Log' being destroyed
+[2022.08.21-16.31.58:654][214]LogShaderCompilers: Display: ================================================
+[2022.08.21-16.31.58:655][214]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.21-16.31.58:655][214]LogShaderCompilers: Display: Total job queries 32, among them cache hits 0 (0.00%)
+[2022.08.21-16.31.58:655][214]LogShaderCompilers: Display: Tracking 2 distinct input hashes that result in 2 distinct outputs (100.00%)
+[2022.08.21-16.31.58:655][214]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.21-16.31.58:655][214]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.21-16.31.58:655][214]LogShaderCompilers: Display: Shaders Compiled: 32
+[2022.08.21-16.31.58:655][214]LogShaderCompilers: Display: Jobs assigned 32, completed 2 (6.25%)
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Job execution time: average 32.92 s, max 32.92 s
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Job life time (pending + execution): average 32.93 s, max 32.93
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.93 s
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 4.57 jobs/batch
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Average processing rate: 0.06 jobs/sec
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Effective parallelization: 0.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    1 times, average 10.85 sec, max 10.85 sec, min 10.85 sec)
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 9.70 sec, max 9.70 sec, min 9.70 sec)
+[2022.08.21-16.31.58:663][214]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2022.08.21-16.31.58:664][214]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 52.80% of total time (compiled    1 times, average 10.85 sec, max 10.85 sec, min 10.85 sec)
+[2022.08.21-16.31.58:664][214]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 47.20% of total time (compiled    1 times, average 9.70 sec, max 9.70 sec, min 9.70 sec)
+[2022.08.21-16.31.58:664][214]LogShaderCompilers: Display: ================================================
+[2022.08.21-16.32.33:321][ 24]LogUObjectHash: Compacting FUObjectHashTables data took  10.70ms
+[2022.08.21-16.32.33:325][ 24]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.267
+[2022.08.21-16.32.33:329][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo] ([1] browsable assets)...
+[2022.08.21-16.32.33:410][ 24]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo.BuffDoge_mixamo]
+[2022.08.21-16.32.33:410][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo]
+[2022.08.21-16.32.33:542][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_Auto2
+[2022.08.21-16.32.33:543][ 24]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamo_Auto2702D4A7C4C4CCB90CAE89B8C7D10861E.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Autosaves/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_Auto2.uasset'
+[2022.08.21-16.32.33:547][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_Skeleton] ([1] browsable assets)...
+[2022.08.21-16.32.33:588][ 24]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_Skeleton.BuffDoge_mixamo_Skeleton]
+[2022.08.21-16.32.33:588][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_Skeleton]
+[2022.08.21-16.32.33:592][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_Skeleton_Auto2
+[2022.08.21-16.32.33:593][ 24]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamo_Skeleton_Auto25472A62142A1C3FF3D2665A8B68D03B9.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Autosaves/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_Skeleton_Auto2.uasset'
+[2022.08.21-16.32.33:594][ 24]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_PhysicsAsset] ([1] browsable assets)...
+[2022.08.21-16.32.33:645][ 24]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_PhysicsAsset.BuffDoge_mixamo_PhysicsAsset]
+[2022.08.21-16.32.33:645][ 24]OBJ SavePackage: Finished generating thumbnails for package [/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_PhysicsAsset]
+[2022.08.21-16.32.33:655][ 24]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_PhysicsAsset_Auto2
+[2022.08.21-16.32.33:655][ 24]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamo_PhysicsAsset_Aut8CBD7470423482112B7AE08E885BBD77.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Autosaves/Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo_PhysicsAsset_Auto2.uasset'
+[2022.08.21-16.32.33:657][ 24]LogFileHelpers: Auto-saving content packages took 0.329
+[2022.08.21-16.33.10:668][556]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Alex McDowell\Desktop\MISC\Class\UnrealFiles\Mutant Idle.fbx)
+[2022.08.21-16.33.10:720][556]LogFbx: Loading FBX Scene from C:\Users\Alex McDowell\Desktop\MISC\Class\UnrealFiles\Mutant Idle.fbx
+[2022.08.21-16.33.10:792][556]LogFbx: FBX Scene Loaded Succesfully
+[2022.08.21-16.33.26:413][556]LogSlate: Took 0.008456 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.21-16.33.57:550][556]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(0) Hips
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(1) Spine
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(2) Spine1
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(3) Spine2
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(4) Neck
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(5) Head
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(8) LeftArm
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(10) LeftHand
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.08.21-16.33.58:174][556]LogFbx: SortedLinks :(19) RightShoulder
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(20) RightArm
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(21) RightForeArm
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(22) RightHand
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(23) RightHandThumb1
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(24) RightHandThumb2
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(25) RightHandThumb3
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(26) RightHandThumb4
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(27) RightHandIndex1
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(28) RightHandIndex2
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(29) RightHandIndex3
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(30) RightHandIndex4
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(31) LeftUpLeg
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(32) LeftLeg
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(33) LeftFoot
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(34) LeftToeBase
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(35) LeftToe_End
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(36) RightUpLeg
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(37) RightLeg
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(38) RightFoot
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(39) RightToeBase
+[2022.08.21-16.33.58:175][556]LogFbx: SortedLinks :(40) RightToe_End
+[2022.08.21-16.33.58:216][556]LogFbx: Parsing AnimStack mixamo.com
+[2022.08.21-16.34.00:213][556]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/FloppaBattle/Models/GaintDoge/Mutant_Idle.Mutant_Idle
+[2022.08.21-16.34.00:242][556]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2022.08.21-16.34.04:688][863]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/FloppaBattle/Models/GaintDoge/Mutant_Idle.Mutant_Idle
+[2022.08.21-16.34.05:835][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-16.34.06:404][863]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2022.08.21-16.34.06:773][863]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.08.21-16.34.06:773][863]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.21-16.34.07:899][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-16.34.08:377][863]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001759s (1.688714s overbudget)
+[2022.08.21-16.34.09:740][863]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2022.08.21-16.34.10:443][863]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.08.21-16.34.17:992][239]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Mutant_Idle
+[2022.08.21-16.34.17:992][239]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Mutant_IdleA46B86CA4C45B1BE5992A9A1B57F6E86.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Mutant_Idle.uasset'
+[2022.08.21-16.34.18:040][239]AssetCheck: New page: Asset Save: Mutant_Idle
+[2022.08.21-16.34.18:040][239]LogContentValidation: Display: Validating AnimSequence /Game/FloppaBattle/Models/GaintDoge/Mutant_Idle.Mutant_Idle
+[2022.08.21-16.34.22:190][379]LogSavePackage: Moving output files for package: /Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase
+[2022.08.21-16.34.22:192][379]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Enemy_CubeBaseB6210C11474133744F640EA2965C7A32.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase.uasset'
+[2022.08.21-16.34.22:235][379]AssetCheck: New page: Asset Save: Enemy_CubeBase
+[2022.08.21-16.34.22:235][379]LogContentValidation: Display: Validating Blueprint /Game/FloppaBattle/CubeTypes/Enemy_Cubes/Enemy_CubeBase.Enemy_CubeBase
+[2022.08.21-16.34.49:472][171]LogViewport: Scene viewport resized to 1139x552, mode Windowed.
+[2022.08.21-16.34.49:630][173]LogViewport: Scene viewport resized to 467x189, mode Windowed.
+[2022.08.21-16.34.49:712][174]LogViewport: Scene viewport resized to 1141x538, mode Windowed.
+[2022.08.21-16.34.56:899][505]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FloppaBattle/Models/GaintDoge/BuffDoge_mixamo.BuffDoge_mixamo
+[2022.08.21-16.34.57:536][505]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-16.34.57:561][505]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.08.21-16.34.58:611][505]LogViewport: Scene viewport resized to 1141x866, mode Windowed.
+[2022.08.21-16.35.19:386][962]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.08.21-16.35.41:789][477]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FloppaBattle/Models/GaintDoge/Mat.Mat
+[2022.08.21-16.35.41:954][477]LogMaterial: Display: Missing cached shadermap for Preview:Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 96EBD70C50B8747E017B8D05012C5609C4E1C17D), compiling. 
+[2022.08.21-16.35.43:347][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.21-16.35.43:349][477]LogShaderCompilers: Display: ================================================
+[2022.08.21-16.35.43:349][477]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.08.21-16.35.43:349][477]LogShaderCompilers: Display: Total job queries 62, among them cache hits 6 (9.68%)
+[2022.08.21-16.35.43:349][477]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 16 distinct outputs (42.11%)
+[2022.08.21-16.35.43:349][477]LogShaderCompilers: Display: RAM used: 0.04 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.08.21-16.35.43:349][477]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.08.21-16.35.43:349][477]LogShaderCompilers: Display: Shaders Compiled: 56
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Jobs assigned 38, completed 38 (100.00%)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Average time worker was idle: 3.30 s
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Job execution time: average 47.05 s, max 59.42 s
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Job life time (pending + execution): average 47.06 s, max 59.43
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 63.74 s
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 2.92 jobs/batch
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Average processing rate: 0.60 jobs/sec
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Effective parallelization: 4.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 12.60 sec, max 13.78 sec, min 11.41 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 11.37 sec, max 11.79 sec, min 10.96 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 9.96 sec, max 11.47 sec, min 8.45 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    2 times, average 9.93 sec, max 13.31 sec, min 6.56 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 9.34 sec, max 10.09 sec, min 8.59 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.51% of total time (compiled    4 times, average 7.25 sec, max 12.03 sec, min 3.57 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.27% of total time (compiled    2 times, average 12.60 sec, max 13.78 sec, min 11.41 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.00% of total time (compiled    4 times, average 6.10 sec, max 12.55 sec, min 3.58 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.46% of total time (compiled    2 times, average 11.37 sec, max 11.79 sec, min 10.96 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.18% of total time (compiled    3 times, average 7.29 sec, max 9.87 sec, min 3.44 sec)
+[2022.08.21-16.35.43:350][477]LogShaderCompilers: Display: ================================================
+[2022.08.21-16.35.43:676][477]LogMaterial: Display: Missing cached shadermap for Preview:Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3B985607B5467DC5A206435F762618CA932BEBAD), compiling. 
+[2022.08.21-16.35.43:689][477]LogMaterial: Display: Missing cached shadermap for Preview:Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3BF7C09F58758830BDB28DFFF43704A188061AE5), compiling. 
+[2022.08.21-16.35.43:701][477]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 34A5FD34740D92F6214933A542959978038397E1), compiling. 
+[2022.08.21-16.35.43:812][477]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.21-16.35.43:812][477]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.21-16.35.43:812][477]MaterialEditorStats: Shader Count: 0
+[2022.08.21-16.35.43:818][477]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2022.08.21-16.35.44:157][479]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.21-16.35.44:157][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.21-16.35.44:157][479]MaterialEditorStats: Shader Count: 4
+[2022.08.21-16.35.45:873][597]LogMaterial: Display: Missing cached shadermap for Preview:Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 5B3FC45CCBECE84D5133D4318042B621E6D43721), compiling. 
+[2022.08.21-16.35.45:877][597]MaterialEditorStats: Texture samplers: 0/16
+[2022.08.21-16.35.45:878][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.21-16.35.45:878][597]MaterialEditorStats: Shader Count: 0
+[2022.08.21-16.35.46:044][599]MaterialEditorStats: Texture samplers: 2/16
+[2022.08.21-16.35.46:044][599]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.08.21-16.35.46:044][599]MaterialEditorStats: Shader Count: 4
+[2022.08.21-16.35.54:219][116]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-16.35.54:233][116]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-16.35.54:250][117]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.21-16.35.56:369][310]LogContentBrowser: Attempting asset rename: NewFolder -> Model
+[2022.08.21-16.35.56:369][310]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.21-16.36.03:101][810]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo
+[2022.08.21-16.36.03:102][810]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamoEAFC35D64B46AED2E2248E9370647976.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo.uasset'
+[2022.08.21-16.36.03:410][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.08.21-16.36.03:555][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2022.08.21-16.36.03:655][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.08.21-16.36.03:749][810]AssetCheck: New page: Asset Save: BuffDoge_mixamo
+[2022.08.21-16.36.03:749][810]LogContentValidation: Display: Validating SkeletalMesh /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo.BuffDoge_mixamo
+[2022.08.21-16.36.05:540][910]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo
+[2022.08.21-16.36.05:541][910]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamo9E6B489D4010EF4A27217897A36B3565.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo.uasset'
+[2022.08.21-16.36.05:548][910]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo_PhysicsAsset
+[2022.08.21-16.36.05:549][910]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamo_PhysicsAsset93D5B79A473D47200F3DF5B126CE2BA6.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo_PhysicsAsset.uasset'
+[2022.08.21-16.36.05:691][910]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2022.08.21-16.36.05:773][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.08.21-16.36.05:873][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.08.21-16.36.05:929][910]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.21-16.36.05:929][910]LogContentValidation: Display: Validating PhysicsAsset /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo_PhysicsAsset.BuffDoge_mixamo_PhysicsAsset
+[2022.08.21-16.36.05:930][910]LogContentValidation: Display: Validating SkeletalMesh /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo.BuffDoge_mixamo
+[2022.08.21-16.36.08:993][135]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Mutant_Idle
+[2022.08.21-16.36.08:995][135]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Mutant_IdleFB2F138940D63943CF5465B103E452CA.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Mutant_Idle.uasset'
+[2022.08.21-16.36.09:070][135]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo
+[2022.08.21-16.36.09:072][135]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamo575FEEEF41A1D78546D4F79C922D064B.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo.uasset'
+[2022.08.21-16.36.09:078][135]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo_Skeleton
+[2022.08.21-16.36.09:079][135]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamo_Skeleton28D097354C9DD0172A620AAE796993B9.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo_Skeleton.uasset'
+[2022.08.21-16.36.09:642][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.08.21-16.36.09:737][135]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.08.21-16.36.09:830][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.08.21-16.36.09:884][135]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.21-16.36.09:884][135]LogContentValidation: Display: Validating Skeleton /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo_Skeleton.BuffDoge_mixamo_Skeleton
+[2022.08.21-16.36.09:884][135]LogContentValidation: Display: Validating SkeletalMesh /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo.BuffDoge_mixamo
+[2022.08.21-16.36.09:884][135]LogContentValidation: Display: Validating AnimSequence /Game/FloppaBattle/Models/GaintDoge/Mutant_Idle.Mutant_Idle
+[2022.08.21-16.36.12:114][255]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-16.36.12:128][255]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-16.36.16:465][463]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.08.21-16.36.19:144][463]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.679 s
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: === Handled ensure: ===
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: 
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: Ensure condition failed: !DeferredItemToCreate.IsValid() [File:D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\SAssetView.cpp] [Line: 592]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: Deferred new asset folder creation while there is already a deferred item creation: NewFolder
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: Stack: 
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffcbc8599d8 UnrealEditor-ContentBrowser.dll!SAssetView::NewFolderItemRequested() [D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\SAssetView.cpp:592]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffcbc745b95 UnrealEditor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SAssetView,1,void __cdecl(FContentBrowserItemTemporaryContext const &),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffcbc80a74b UnrealEditor-ContentBrowser.dll!SContentBrowser::CreateNewFolder() [D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\SContentBrowser.cpp:3833]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffcbc859d76 UnrealEditor-ContentBrowser.dll!SContentBrowser::NewFolderRequested() [D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\SContentBrowser.cpp:1876]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffcbc826c35 UnrealEditor-ContentBrowser.dll!TBaseSPMethodDelegateInstance<0,SContentBrowser,1,void __cdecl(FString const &),FDefaultDelegateUserPolicy>::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:307]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffcbc746706 UnrealEditor-ContentBrowser.dll!FNewAssetOrClassContextMenu::ExecuteNewFolder() [D:\build\++UE5\Sync\Engine\Source\Editor\ContentBrowser\Private\NewAssetOrClassContextMenu.cpp:110]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffcbc6b4bfa UnrealEditor-ContentBrowser.dll!UE::Core::Private::Tuple::TTupleBase<TIntegerSequence<unsigned int,0,1>,FName,TDelegate<void __cdecl(FString const &),FDefaultDelegateUserPolicy> >::ApplyAfter<void (__cdecl*const &)(FName,TDelegate<void __cdecl(FString const &),FDefaultDelegateUserPolicy>)>() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Templates\Tuple.h:324]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffcbc746481 UnrealEditor-ContentBrowser.dll!TBaseStaticDelegateInstance<void __cdecl(void),FDefaultDelegateUserPolicy,FName,TDelegate<void __cdecl(FString const &),FDefaultDelegateUserPolicy> >::ExecuteIfSafe() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:731]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd0727d59d UnrealEditor-Slate.dll!SMenuEntryBlock::OnClicked() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\MultiBox\SMenuEntryBlock.cpp:1157]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd0727e520 UnrealEditor-Slate.dll!SMenuEntryBlock::OnMenuItemButtonClicked() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\MultiBox\SMenuEntryBlock.cpp:1108]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd07260944 UnrealEditor-Slate.dll!TBaseSPMethodDelegateInstance<0,SMenuEntryBlock,1,FReply __cdecl(void),FDefaultDelegateUserPolicy>::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:290]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd072fba3b UnrealEditor-Slate.dll!SButton::ExecuteOnClick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:464]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd07322df6 UnrealEditor-Slate.dll!SButton::OnMouseButtonUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Input\SButton.cpp:389]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd0727e60c UnrealEditor-Slate.dll!SMenuEntryButton::OnMouseButtonUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\MultiBox\SMenuEntryBlock.cpp:434]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd070c4034 UnrealEditor-Slate.dll!<lambda_51e270ca99ea7ce852539efd04dd453f>::operator()() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4959]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd070a6fc6 UnrealEditor-Slate.dll!FEventRouter::Route<FReply,FEventRouter::FToLeafmostPolicy,FPointerEvent,<lambda_51e270ca99ea7ce852539efd04dd453f> >() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:405]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd071202ee UnrealEditor-Slate.dll!FSlateApplication::RoutePointerUpEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4945]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd071091b1 UnrealEditor-Slate.dll!FSlateApplication::ProcessMouseButtonUpEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5493]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd070fd5dc UnrealEditor-Slate.dll!FSlateApplication::OnMouseUp() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:5458]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd13eea92e UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2210]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd13ed9247 UnrealEditor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2699]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd13eece51 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1078]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd13ed49a7 UnrealEditor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:916]
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd6985e858 USER32.dll!UnknownFunction []
+[2022.08.21-16.36.19:145][463]LogOutputDevice: Error: [Callstack] 0x00007ffd6985e299 USER32.dll!UnknownFunction []
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ffd13eee148 UnrealEditor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:138]
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ff65c377114 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5139]
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ff65c390d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ff65c390e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ff65c393c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ff65c3a5564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ff65c3a8736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ffd6a1f7034 KERNEL32.DLL!UnknownFunction []
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: [Callstack] 0x00007ffd6a7a2651 ntdll.dll!UnknownFunction []
+[2022.08.21-16.36.19:146][463]LogOutputDevice: Error: 
+[2022.08.21-16.36.19:151][463]LogStats:                SubmitErrorReport -  0.000 s
+[2022.08.21-16.36.35:889][463]LogStats:                    SendNewReport - 16.738 s
+[2022.08.21-16.36.35:889][463]LogStats:             FDebug::EnsureFailed - 19.424 s
+[2022.08.21-16.36.35:889][463]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-16.36.35:904][463]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-16.36.35:921][464]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.21-16.36.35:926][465]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.08.21-16.36.35:927][465]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.21-16.36.41:451][ 63]LogContentBrowser: Attempting asset rename: NewFolder -> Animation
+[2022.08.21-16.36.44:761][383]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Animation/Mutant_Idle
+[2022.08.21-16.36.44:761][383]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/Mutant_IdleCEA9ED4B40E493E6C6319588077E0FC1.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Animation/Mutant_Idle.uasset'
+[2022.08.21-16.36.45:383][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.08.21-16.36.45:441][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.08.21-16.36.45:501][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.08.21-16.36.45:537][383]AssetCheck: New page: Asset Save: Mutant_Idle
+[2022.08.21-16.36.45:537][383]LogContentValidation: Display: Validating AnimSequence /Game/FloppaBattle/Models/GaintDoge/Animation/Mutant_Idle.Mutant_Idle
+[2022.08.21-16.36.49:366][745]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.08.21-16.36.49:377][745]LogContentBrowser: Creating deferred item: NewFolder
+[2022.08.21-16.36.49:388][746]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.08.21-16.36.51:109][953]LogContentBrowser: Attempting asset rename: NewFolder -> Material
+[2022.08.21-16.36.51:109][953]LogContentBrowser: End creating deferred item NewFolder
+[2022.08.21-16.36.54:525][306]LogSavePackage: Moving output files for package: /Game/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo
+[2022.08.21-16.36.54:526][306]LogSavePackage: Moving '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Saved/BuffDoge_mixamo8A2625414E9857417130E7AF094B9A9B.tmp' to '../../../../../../Users/Alex McDowell/Documents/Unreal Projects/BettaOnaFloppa/Content/FloppaBattle/Models/GaintDoge/Model/BuffDoge_mixamo.uasset'
